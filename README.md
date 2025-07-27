@@ -72,6 +72,8 @@
 
 ### 📈 GitHub Stats
 
+> _(Note: Most contributions are in private repositories.)_
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alaa-nabawy&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <br/>
