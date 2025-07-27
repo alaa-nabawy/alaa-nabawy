@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/demo/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=%20System+Architect+%7C+8%2B+Years+Experience;Laravel+%2F+NestJS+%2F+Django+%2F+PostgreSQL;AI+%7C+Logistics+%7C+Healthcare+%7C+E-Commerce+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=%20Senior+Backend+Engineer+%7C+System+Architect+%7C+8%2B+Years+Experience;Laravel+%2F+NestJS+%2F+Django+%2F+PostgreSQL;OpenAI+Integrations+%7C+Real-Time+Systems+%7C+Multi-Tenant+Apps" alt="Typing SVG" />
   </a>
 </p>
 
