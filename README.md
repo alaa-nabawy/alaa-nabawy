@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alaa Nabawii</h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com/demo/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Senior+Backend+Engineer; System+Architect+%7C+8%2B+Years+Experience;Laravel+%2F+NestJS+%2F+Django+%2F+Node.js;Multi-Tenant+%7C+AI+%7C+Real-Time+Systems" alt="Typing SVG" /></a>
+  <a href="https://readme-typing-svg.demolab.com/demo/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Senior+Backend+Engineer;System+Architect+%7C+8%2B+Years+Experience;Laravel+%2F+NestJS+%2F+Django+%2F+Node.js;Multi-Tenant+%7C+AI+%7C+Real-Time+Systems" alt="Typing SVG" /></a>
 </p>
 
 ---
