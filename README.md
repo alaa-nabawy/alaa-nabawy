@@ -56,9 +56,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alaa-nabawii&show_icons=true&theme=tokyonight" alt="Alaa's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alaa-nabawy&show_icons=true&theme=tokyonight" alt="Alaa's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaa-nabawii&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaa-nabawy&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
   <a href="mailto:nabawyalaa97@yahoo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/alaa-nabawii">
+  <a href="https://github.com/alaa-nabawy">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
