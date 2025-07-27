@@ -24,7 +24,7 @@
 |---------------|------------|------------|
 | **SupplyNow** | Django, Celery, OpenAI, Redis | Multi-tenant supply chain platform with barcode scanning, order state machine, AI email parsing |
 | **DrugGPS**   | NestJS, SQL Server, Jenkins | Clinical decision engine evaluating real-time drug interactions using rule graphs |
-| **Nabadat**   | Laravel, MyFatoorah, WebRTC | Telehealth platform with role-based access, secure consults, payment workflows |
+| **Nabdaat** | Laravel, MyFatoorah, WebRTC | Telehealth platform with role-based access, secure consults, and payment workflows |
 | **London Eyes** | Laravel, OpenAI GPT-4, Redis | Smart tourism platform with booking, multilingual AI concierge, and real-time search |
 | **Travveo**   | Laravel, Stripe, Redis | Travel booking platform with spatial search, dynamic pricing, and real-time UX |
 | **GulfTracker** | Laravel, PostgreSQL, Redis | Real-time fleet and order tracking platform with ETA logic and financial reporting |
