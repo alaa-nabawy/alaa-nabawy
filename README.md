@@ -4,105 +4,75 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%20I'm%20Alaa%20Nabawii%20👋&fontSize=30&fontAlign=50&fontColor=ffffff" />
 </p>
 
-<h2 align="center">🚀 Senior Backend Engineer | Laravel | Node.js | NestJS | Django | PostgreSQL</h2>
+<h2 align="center">🚀 Senior Backend Engineer | Software Architect | AI Integrator</h2>
 
 <p align="center">
-8+ years of building high-performance, production-grade systems across <strong>logistics</strong>, <strong>e-commerce</strong>, <strong>healthcare</strong>, <strong>tourism</strong>, and <strong>AI-powered platforms</strong>.
-<br>
-Expert in designing clean, scalable architectures and delivering real-world impact with <strong>Laravel</strong>, <strong>NestJS</strong>, <strong>Django</strong>, and <strong>PostgreSQL</strong>.
+🇪🇬 Based in Egypt · 8+ years building robust platforms in <strong>logistics</strong>, <strong>healthcare</strong>, <strong>education</strong>, <strong>travel</strong>, and <strong>AI-powered systems</strong>.<br>
+Specialized in backend engineering with a focus on **clean architecture**, **multi-tenant systems**, and **real-world scalability**.
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🇪🇬 Based in Egypt | `alaa-nabawy`
-- 🎯 Backend Architect & AI Integrator
-- 🔧 Deep experience with multi-tenant systems, state machines, barcode workflows, and payment gateways
-- 🧠 Passionate about clean architecture, team enablement, and automation at scale
-- 📦 Tech stack: Laravel, Node.js, NestJS, Django, PostgreSQL, Redis, AWS, Docker
+- 🧠 Backend-first engineer passionate about design patterns, clean code, and scalable solutions.
+- 🔧 Expert in Laravel, NestJS, Node.js, Django, PostgreSQL, Redis, Docker, and AWS.
+- 🤖 Integrated OpenAI GPT-4 into real-world systems (e.g., AI concierge, email parsing, chat-driven orders).
+- 🎯 Built high-availability platforms powering supply chains, healthcare engines, and tourism bookings.
 
 ---
 
-### 🧰 My Toolbox
+### 🛠️ My Tech Toolbox
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-</p>
+#### **Languages**
+`PHP`, `Python`, `JavaScript`, `TypeScript`, `SQL`, `HTML`, `CSS`, `Bash`
 
----
+#### **Frameworks & Libraries**
+- **Backend**: Laravel, NestJS, Node.js (Express), Django
+- **Frontend**: Vue.js, React, Next.js, Nuxt.js
+- **Mobile**: Flutter (integrated, not developed)
+- **AI/NLP**: OpenAI GPT-3/4, LangChain (light), serverless Lambda triggers
 
-### 🏆 Highlights & Key Projects
+#### **Databases**
+- PostgreSQL (RLS, JSONB, indexing)
+- MySQL (spatial indexing)
+- SQL Server (expression evaluation engine)
+- MongoDB (used in early prototypes)
 
-#### 🚚 **SupplyNow** (Django, Celery, AWS, OpenAI)
-> Restaurant logistics automation platform with multi-tenant order systems, AI document parsing, barcode scanning, and real-time Slack alerts.
-
-- Designed 18+ state backend for order lifecycles
-- AI/NLP-powered email ingestion using OpenAI + AWS Lambda
-- Asynchronous background processing with Celery + Redis + SQS
-- Slack & SMS notification systems for live operations
-
----
-
-#### 💊 **DrugGPS** (NestJS, SQL Server, Keycloak)
-> Enterprise-grade clinical rules engine with real-time drug interaction analysis and multi-tenant medical intelligence.
-
-- Expression evaluator for clinical rules
-- Recursive graph algorithm for drug interactions
-- CI/CD pipelines with Jenkins + Windows Docker containers
+#### **DevOps & Infra**
+- Docker, Docker Compose (Linux + Windows containers)
+- AWS (S3, SSM, SQS, Lambda)
+- GitHub Actions, Jenkins CI
+- Redis (queues, caching, PubSub)
+- Keycloak (OIDC + RBAC)
+- Firebase (FCM), Twilio, Stripe, ZXing
 
 ---
 
-#### 🏥 **Nabadat** (Laravel, WebRTC, MyFatoorah)
-> Telehealth platform connecting patients with doctors for bookings, consultations, and secure multi-party payments.
+### 📌 Career Highlights
 
-- WebRTC integration for private video consults
-- Dynamic financial reconciliation across doctors/clinics/platform
-- OTP + JWT-based auth with role isolation
-
----
-
-#### 🗺️ **London Eyes** (Laravel, OpenAI, Redis, MySQL)
-> Tourism & lifestyle platform with booking, multilingual AI concierge, and real-time services across London.
-
-- GPT-4 integration for AI-powered search & bookings
-- High-performance geospatial search with Redis cache
-- Modular system supporting transportation, cafes, real estate & jobs
+| Project | Role | Description |
+|--------|------|-------------|
+| **SupplyNow** | Lead Backend Architect | Django + Celery platform for vendor order automation, barcode scanning, and AI email parsing |
+| **DrugGPS** | Platform Engineer | NestJS-based rule engine for live drug interactions, used in clinical support systems |
+| **Nabadat** | Laravel Developer | Real-time telehealth platform with secure video consults and OTP-based access |
+| **London Eyes** | System Architect | Multilingual city guide with GPT-powered concierge and modular booking engine |
+| **Espitaliaa** | Backend Dev | Hospital/clinic booking system with medical calendar logic and private data control |
+| **Travveo** | Full-Stack Lead | Tourism platform with spatial search, dynamic pricing, and multilingual UX |
+| **GulfTracker** | Core Developer | Fleet tracking and logistics system for Gulf-based vendor coordination |
+| **Others** | Freelance (Fiverr, Upwork) | Created CV builders, eCommerce stores, lottery systems, and Shopify APIs |
 
 ---
 
-#### 🏨 **Espitaliaa** (Laravel)
-> Hospital & clinic booking engine with secure medical records, appointment scheduling, and doctor-patient communications.
+### 🧠 Engineering Strengths
 
-- Flexible calendar templates & override logic
-- Role-based access across hospitals, clinics, and users
-- Real-time notifications with fallback delivery channels
-
----
-
-#### 🧳 **Travveo** (Laravel, Redis, Stripe)
-> Travel booking platform supporting multi-currency payments, geolocation-based tour search, and multilingual chatbot integration.
-
-- Built multilingual booking engine with dynamic pricing
-- Stripe payments with custom reconciliation logic
-- Spatial filters for region-based package discovery
-
----
-
-#### 🛰️ **GulfTracker** (Laravel, PostgreSQL, Redis)
-> Gulf-based logistics platform for real-time fleet tracking, vendor order routing, and operational analytics.
-
-- Real-time ETA tracking with optimized route management
-- Driver/shoppers workflows & AI-assisted notifications
-- Admin dashboards with role-based views and financial reports
+- 🏗️ Multi-Tenant Systems (PostgreSQL RLS, SQL Server partitions)
+- 🔄 State Machines (18+ state order flows, state guards, rollback logic)
+- 🔁 Event-Driven Design (queue partitioning, observers, retry patterns)
+- 🤖 AI + Automation (OpenAI GPT, email/NLP ingestion, chat-driven APIs)
+- 🔒 Secure Auth (JWT, Keycloak, OAuth2, OTP, role-permission guards)
+- 📦 Modular Patterns (Repository, Service, Strategy, Observer, Decorator)
+- 🧪 Testing & Docs (Jest, PHPUnit, Swagger, Postman, CI coverage)
 
 ---
 
@@ -114,9 +84,11 @@ Expert in designing clean, scalable architectures and delivering real-world impa
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaa-nabawy&layout=compact&theme=tokyonight" />
 </p>
 
+<sub>📌 Tip: Enable “Show private contributions” in GitHub settings to reflect your true impact.</sub>
+
 ---
 
-### 📬 Let’s Connect
+### 📬 Connect with Me
 
 <p>
   <a href="https://www.linkedin.com/in/alaanabawii/" target="_blank">
