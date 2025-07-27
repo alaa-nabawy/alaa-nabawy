@@ -1,11 +1,8 @@
-<!-- Alaa Nabawii GitHub README -->
+<h1 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00F2FE&center=false&vCenter=true&width=700&lines=Senior+Backend+Engineer+%7C+System+Architect+%7C+8%2B+Years+Experience;Laravel+%2F+NestJS+%2F+Django+%2F+PostgreSQL;OpenAI+Integrations+%7C+Real-Time+Systems+%7C+Multi-Tenant+Apps" alt="Typing animation" />
+</h1>
 
-<!-- Custom Gradient Banner with Name -->
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00F2FE&center=false&vCenter=true&width=600&lines=Senior+Backend+Engineer+%7C+System+Architect+%7C+8%2B+Years+Experience;Laravel+%2F+NestJS+%2F+Django+%2F+PostgreSQL;OpenAI+Integrations+%7C+Multi-Tenant+Apps+%7C+Real-Time+Systems" alt="Typing animation" />
-</p>
-
-![Alaa Nabawii Gradient Banner](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=Hi%20👋%2C%20I'm%20Alaa%20Nabawii&fontSize=40&fontColor=ffffff&fontAlign=10&fontAlignY=35)
+# Hi 👋, I'm Alaa Nabawii
 
 ---
 
