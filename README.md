@@ -80,8 +80,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaa-nabawy&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
-<sub>📌 Tip: Enable “Show private contributions” in GitHub settings to reflect your real stats.</sub>
-
 ---
 
 ### 📫 Connect with Me
